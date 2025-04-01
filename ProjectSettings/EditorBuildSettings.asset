@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Home.unity
+    guid: a8e7d23a0d89ed54484d10aa95e4ad71
+  - enabled: 1
+    path: Assets/Credit.unity
+    guid: 2c883a0fe64c1794e980b1a3c64edb8d
+  - enabled: 1
+    path: Assets/scene_start_04.unity
+    guid: 5db73a07432c62b4a81e34c2b25e171b
+  - enabled: 1
+    path: Assets/scene_start_03.unity
+    guid: b0a30f31ed2301645b89f2a2f093423c
+  - enabled: 1
+    path: Assets/scene_start_02.unity
+    guid: 05a1b4cba326caf4788018957e562a2e
+  - enabled: 1
+    path: Assets/scene_start_01.unity
+    guid: 2bc12afd209c84e4fb7f707529d85a4b
+  - enabled: 1
+    path: Assets/cooking.unity
+    guid: fe49c1af6b0c941489a08881d57d7be4
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: a52f12f6478a6da4e8de7ed4ad957ffe
+  - enabled: 1
+    path: Assets/yousafe.unity
+    guid: 19d8200494b39ff4cbd23a16d89d8318
+  - enabled: 1
+    path: Assets/gameover.unity
+    guid: 272f124b1b6983644b90dd7e3ad3e10c
+  - enabled: 1
+    path: Assets/Storage.unity
+    guid: ce8969f666839ee46b326da6c83cff5e
+  - enabled: 1
+    path: Assets/story_end.unity
+    guid: 10ebb2637ad7ec1418ece5a1b8c545b5
+  m_configObjects: {}

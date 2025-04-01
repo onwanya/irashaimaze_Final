@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - camera2
+  - Box Dam
+  - Counter
+  - Cookling_Block
+  - CheckHead
+  - Box_01
+  - Box_02
+  - Box_03
+  - Box_04
+  - Box_05
+  - Box_06
+  - Box_07
+  - Box_08
+  - Box_09
+  - Box_10
+  - Box_11
+  - Box_12
+  - ShuffleAndPlaceItems
+  - Tempura
+  - Shrimp
+  - Vegetable
+  - Four
+  - cooking_pan
+  - TrashBin
+  - Box
+  - Ingrediant
+  - Finish_Food
+  - cooking_pot
+  - cooking_grille
+  - cooking_board
+  - Bubble
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
