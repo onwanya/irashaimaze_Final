@@ -14,7 +14,8 @@ source code: https://drive.google.com/file/d/1EK_EWBG7awGlNlyWGPwUALlV1VhRu7SI/v
 
 Export fill package unity: https://drive.google.com/file/d/1erlJ_KgEUIHDwU9Oj5vBkpL2ZW6Onwxd/view?usp=drive_link
 
-Export game: 
+Export game: https://drive.google.com/file/d/1q2BSgKTkq9UOZxJkaA6HF5759F5Qexly/view?usp=drive_link
+
 
 
  
