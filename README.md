@@ -8,12 +8,6 @@
 6. 2313240026 อรวรรยา สมประสงค์
 
 video review:
-Export game:
-# Irasamaze Game
-
-## Download Unity Package
-[📦 Click here to download the Unity Package](https://github.com/username/irasamaze/raw/main/game_assets.unitypackage)
-Fill Package unity:
 
  
  
