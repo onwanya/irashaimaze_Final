@@ -8,7 +8,7 @@
 6. 2313240026 อรวรรยา สมประสงค์
 
 video review:
-Export game: https://github.com/onwanya/irashaimaze_Final
+Export game: (https://drive.google.com/drive/folders/1JexDuXuAUMdhi488BjfZtb3jaBlJ2_JD?usp=drive_link)
 
  
  
