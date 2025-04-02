@@ -8,7 +8,7 @@
 5. 2213210830 พิมณัฐฐา ชนะสงคราม
 6. 2313240026 อรวรรยา สมประสงค์
 
-video review:
+video review: https://youtu.be/atijVz32hho?si=n_nVxp0fxJMYAnD6
 
 source code: https://drive.google.com/file/d/1EK_EWBG7awGlNlyWGPwUALlV1VhRu7SI/view?usp=drive_link
 
